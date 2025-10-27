@@ -1,2 +1,2 @@
 # algorithm
-I solve algorithm problems with python
+We solve algorithmic problems in python.
